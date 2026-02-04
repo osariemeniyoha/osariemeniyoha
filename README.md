@@ -5,32 +5,26 @@
 
 
 
-I am a creative designer with a strong interest in technology. With experience in brand development, visual storytelling, and creative design, I aim to bring clarity and value to every project I work on.
+I’m a Frontend Web Developer with a strong foundation in creative design and brand development. I specialize in building responsive, user-friendly web interfaces and turning Figma designs into live projects, while also leveraging my design skills for visual storytelling, logos, and brand identity.
 
 ## Objective
 
 
-I am currently transitioning into the tech space with a focus on user-centered design and front-end development. I want to help teams and businesses communicate ideas clearly through smart design and simple user experiences.
+I focus on frontend development and user-centered design, helping startups and businesses deliver clear, modern, and engaging web experiences. My goal is to combine design sensibility and coding expertise to create interfaces that look great and work flawlessly.
 
-## Project
-
-
-## Elevate Mental Health App Presentation
-| <a href="https://github.com/pocre8/Elevate-Mental-Health-App-Presentation">Elevate Mental Health App Presentation</a>|
-## Elevate Mental Health Wireframe & UX Research Slide Deck
-| <a href="https://github.com/pocre8/Elevate-Mental-Health-App-Wireframe-UX-Research-Slide-Deck/tree/main">Elevate Mental App Wireframe & Ux Research</a>|
 
 
 
 ## Skills & Tools
-- *Design:* Figma, Canva, Adobe XD
-- *Branding:* Logos, Color Systems, Presentation Decks
-- *UX Research:* User Flows, Wireframes, Inclusivity Design
-- Time Management | Team Collaboration | Attention to Detail
+- Frontend Development: HTML5, CSS3, JavaScript, React, Tailwind CSS, Git/GitHub
+- Design & UX: Figma, Canva, Adobe XD, User Flows, Wireframes, Inclusive Design
+- Branding & Visuals: Logos, Color Systems, Presentation Decks
+- Professional Skills: Time Management, Team Collaboration, Attention to Detail
+
 ## Certifications
 - Graphics Design Diploma Certificate (2021)  - GH
 - Canva for Visual  
 - Maritime and ICT Diploma Certificate - UNIBEN
-## Projects
--  <a href="https://github.com/pocre8/Elevate-Mental-Health-App-Presentation">Elevate Mental Health App Presentation</a>
--  <a href="https://github.com/pocre8/Elevate-Mental-Health-App-Wireframe-UX-Research-Slide-Deck/tree/main">Elevate Mental App Wirframe & Ux Research</a>
+- ALX Software Engineering / Frontend Development Certification of Completion
+  
+
