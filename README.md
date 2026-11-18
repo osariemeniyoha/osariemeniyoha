@@ -1,4 +1,5 @@
 # Hello, I'm Osariemen Iyoha
+Frontend Web Developer | Software Development | AI/ML Learner | AI for Healthcare
 <a href="https://www.linkedin.com/in/osariemen-iyoha-835774355">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
