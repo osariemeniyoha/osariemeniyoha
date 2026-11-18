@@ -1,4 +1,4 @@
-# Hello, I'm Osariemen Iyoha
+# Hello, I'm Osariemen Precious Iyoha
 ### Frontend Web Developer | Software Development | AI/ML Learner | AI for Healthcare
 
 <a href="https://www.linkedin.com/in/osariemen-iyoha-835774355">
